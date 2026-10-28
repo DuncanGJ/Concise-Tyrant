@@ -1,0 +1,3 @@
+interface:
+  display_name: "concise-tyrant"
+  short_description: "Comment, error message and logging out review for concision"
